@@ -1,1 +1,1 @@
-# adventsnewsletter.shesmile.de
+# https://adventsnewsletter.shesmile.de
