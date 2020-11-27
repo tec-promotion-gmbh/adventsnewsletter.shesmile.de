@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* Global Styles */
+
+body {
+	margin: 30px 50px 0px 50px;
+	max-width: 900px;
+	background-image: url("https://kreativletter.shesmile.de/images/background.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-attachment: fixed;
+}
+
+/* Header */
+
+
+header {
+	padding: 50px 50px 50px 50px;
+ 	background-color: #ffffff;
+	align-content: center;
+}
+
+
+h1 {
+	font-family: 'Itim', cursive;
+	color: #6A4853;
+	font-size: 35px;
+	line-height: 33px;
+	font-weight: normal;
+}
+
+h3 {
+	font-family: 'Itim', cursive;
+	color: #8A5F6A;
+	font-size: 30px;
+	line-height: 30px;
+	font-weight: normal;
+}
+
+
+h4 {
+	font-family: 'Itim', cursive;
+	color: #ff9d90;
+	font-size: 19px;
+	line-height: 22px;
+	font-weight: normal;
+}
+
+p, li, ul {
+	font-family: 'ABeeZee', sans-serif;
+	color: #6A4853;
+	font-size: 15px;
+	line-height: 22px;
+	font-weight: normal;
+}
+
+a:link, a:visited, a:active {
+	color: #ff9d90;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #DB948A;
+}
+
+
+/* Footer */
+
+footer .footerDisclaimer{
+	font-family: 'Itim', cursive;
+	color: #DCCFCB;
+	font-size: 15px;
+	line-height: 22px;
+	text-align: center;
+	float: center;
+	margin: 0px 50px 50px 50px;
+}
